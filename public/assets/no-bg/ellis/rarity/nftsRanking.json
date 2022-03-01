@@ -1,0 +1,4502 @@
+[
+    {
+        "name": "Cute Squares #98",
+        "rank": 1,
+        "score": 125.30550000000001,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Blazer",
+                "total_stock": 1,
+                "percentage": 1.0,
+                "score": 100.0
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #52",
+        "rank": 2,
+        "score": 99.9092,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Vest",
+                "total_stock": 3,
+                "percentage": 3.0,
+                "score": 33.3333
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "King Hat",
+                "total_stock": 2,
+                "percentage": 2.0,
+                "score": 50.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #73",
+        "rank": 3,
+        "score": 85.8549,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Orange",
+                "total_stock": 13,
+                "percentage": 13.0,
+                "score": 7.6923
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Formalsuit.Jpg",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "King Hat",
+                "total_stock": 2,
+                "percentage": 2.0,
+                "score": 50.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #71",
+        "rank": 4,
+        "score": 75.8549,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Orange",
+                "total_stock": 13,
+                "percentage": 13.0,
+                "score": 7.6923
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Jumpsuit",
+                "total_stock": 2,
+                "percentage": 2.0,
+                "score": 50.0
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #96",
+        "rank": 5,
+        "score": 73.5686,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Jumpsuit",
+                "total_stock": 2,
+                "percentage": 2.0,
+                "score": 50.0
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #25",
+        "rank": 6,
+        "score": 71.4838,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Shirt",
+                "total_stock": 5,
+                "percentage": 5.0,
+                "score": 20.0
+            },
+            "Accesoris": {
+                "item": "Necklace",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Head": {
+                "item": "Viking Hat",
+                "total_stock": 4,
+                "percentage": 4.0,
+                "score": 25.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #59",
+        "rank": 7,
+        "score": 69.9177,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Casual Glasses",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Clothes": {
+                "item": "Sleeveless Basketball",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Viking Hat",
+                "total_stock": 4,
+                "percentage": 4.0,
+                "score": 25.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #15",
+        "rank": 8,
+        "score": 63.432100000000005,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Vest",
+                "total_stock": 3,
+                "percentage": 3.0,
+                "score": 33.3333
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Clown Hat",
+                "total_stock": 10,
+                "percentage": 10.0,
+                "score": 10.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #3",
+        "rank": 9,
+        "score": 62.6489,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Hoodie Flanel",
+                "total_stock": 7,
+                "percentage": 7.0,
+                "score": 14.2857
+            },
+            "Accesoris": {
+                "item": "Necklace",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Head": {
+                "item": "Coboy Hat",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #84",
+        "rank": 10,
+        "score": 62.6202,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Casual Glasses",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Clothes": {
+                "item": "Sleeveless Basketball",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Cigarette Ivory",
+                "total_stock": 5,
+                "percentage": 5.0,
+                "score": 20.0
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #89",
+        "rank": 11,
+        "score": 60.98219999999999,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "3D Glasses",
+                "total_stock": 4,
+                "percentage": 4.0,
+                "score": 25.0
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Coboy Hat",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #26",
+        "rank": 12,
+        "score": 60.0624,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Rainbow",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Shirt",
+                "total_stock": 5,
+                "percentage": 5.0,
+                "score": 20.0
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #70",
+        "rank": 13,
+        "score": 57.464099999999995,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Rainbow",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Red Glasses",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Clothes": {
+                "item": "Shirt",
+                "total_stock": 5,
+                "percentage": 5.0,
+                "score": 20.0
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #69",
+        "rank": 14,
+        "score": 56.6057,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Green.Png",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Hoddie",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Cigarette Ivory",
+                "total_stock": 5,
+                "percentage": 5.0,
+                "score": 20.0
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #1",
+        "rank": 15,
+        "score": 55.824,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "3D Glasses",
+                "total_stock": 4,
+                "percentage": 4.0,
+                "score": 25.0
+            },
+            "Clothes": {
+                "item": "Prison Tees",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Clown Hat",
+                "total_stock": 10,
+                "percentage": 10.0,
+                "score": 10.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #22",
+        "rank": 16,
+        "score": 55.7543,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Orange",
+                "total_stock": 13,
+                "percentage": 13.0,
+                "score": 7.6923
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Viking Hat",
+                "total_stock": 4,
+                "percentage": 4.0,
+                "score": 25.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #55",
+        "rank": 17,
+        "score": 55.4618,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Orange",
+                "total_stock": 13,
+                "percentage": 13.0,
+                "score": 7.6923
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Vest",
+                "total_stock": 3,
+                "percentage": 3.0,
+                "score": 33.3333
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #21",
+        "rank": 18,
+        "score": 55.39459999999999,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Orange",
+                "total_stock": 13,
+                "percentage": 13.0,
+                "score": 7.6923
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Casual Glasses",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Clothes": {
+                "item": "Formalsuit.Jpg",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #14",
+        "rank": 19,
+        "score": 54.1303,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Orange",
+                "total_stock": 13,
+                "percentage": 13.0,
+                "score": 7.6923
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Red Glasses",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Cigarette Ivory",
+                "total_stock": 5,
+                "percentage": 5.0,
+                "score": 20.0
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #31",
+        "rank": 20,
+        "score": 53.3289,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Casual Glasses",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Clothes": {
+                "item": "Hoodie Flanel",
+                "total_stock": 7,
+                "percentage": 7.0,
+                "score": 14.2857
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Punk",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #11",
+        "rank": 21,
+        "score": 53.273799999999994,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Green.Png",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Sleeveless Basketball",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Coboy Hat",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #75",
+        "rank": 22,
+        "score": 53.1811,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Hoddie",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Coboy Hat",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #19",
+        "rank": 23,
+        "score": 52.6545,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Casual Glasses",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Clothes": {
+                "item": "Flanel Green",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Clown Hat",
+                "total_stock": 10,
+                "percentage": 10.0,
+                "score": 10.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #48",
+        "rank": 24,
+        "score": 51.9049,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Rainbow",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Clown Hat",
+                "total_stock": 10,
+                "percentage": 10.0,
+                "score": 10.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #65",
+        "rank": 25,
+        "score": 51.0165,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Rainbow",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Sleeveless Basketball",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Punk",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #53",
+        "rank": 26,
+        "score": 50.6449,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Hoodie Flanel",
+                "total_stock": 7,
+                "percentage": 7.0,
+                "score": 14.2857
+            },
+            "Accesoris": {
+                "item": "Necklace",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #7",
+        "rank": 27,
+        "score": 48.888799999999996,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Rainbow",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Sleeveless Basketball",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #49",
+        "rank": 28,
+        "score": 48.817899999999995,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Orange",
+                "total_stock": 13,
+                "percentage": 13.0,
+                "score": 7.6923
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Shirt",
+                "total_stock": 5,
+                "percentage": 5.0,
+                "score": 20.0
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #63",
+        "rank": 29,
+        "score": 48.81289999999999,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "3D Glasses",
+                "total_stock": 4,
+                "percentage": 4.0,
+                "score": 25.0
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #64",
+        "rank": 30,
+        "score": 48.52049999999999,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "3D Glasses",
+                "total_stock": 4,
+                "percentage": 4.0,
+                "score": 25.0
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #13",
+        "rank": 31,
+        "score": 48.4509,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Green.Png",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Shirt",
+                "total_stock": 5,
+                "percentage": 5.0,
+                "score": 20.0
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #77",
+        "rank": 32,
+        "score": 47.94179999999999,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Green.Png",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Necklace",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #88",
+        "rank": 33,
+        "score": 47.8976,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Cigarette Ivory",
+                "total_stock": 5,
+                "percentage": 5.0,
+                "score": 20.0
+            },
+            "Head": {
+                "item": "Punk",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #45",
+        "rank": 34,
+        "score": 47.784,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Flanel Green",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Necklace",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #94",
+        "rank": 35,
+        "score": 47.510400000000004,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Viking Hat",
+                "total_stock": 4,
+                "percentage": 4.0,
+                "score": 25.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #66",
+        "rank": 36,
+        "score": 46.7972,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Prison Tees",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Necklace",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #46",
+        "rank": 37,
+        "score": 45.5637,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Flanel Green",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Cigarette Ivory",
+                "total_stock": 5,
+                "percentage": 5.0,
+                "score": 20.0
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #90",
+        "rank": 38,
+        "score": 45.3413,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Green.Png",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Formalsuit.Jpg",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #78",
+        "rank": 39,
+        "score": 45.2799,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Green.Png",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Supersol",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Punk",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #81",
+        "rank": 40,
+        "score": 45.0948,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Green.Png",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Formalsuit.Jpg",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #24",
+        "rank": 41,
+        "score": 45.025299999999994,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Casual Glasses",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Clothes": {
+                "item": "Flanel Green",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Clown Hat",
+                "total_stock": 10,
+                "percentage": 10.0,
+                "score": 10.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #51",
+        "rank": 42,
+        "score": 44.7874,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Orange",
+                "total_stock": 13,
+                "percentage": 13.0,
+                "score": 7.6923
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Hoodie Flanel",
+                "total_stock": 7,
+                "percentage": 7.0,
+                "score": 14.2857
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Clown Hat",
+                "total_stock": 10,
+                "percentage": 10.0,
+                "score": 10.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #54",
+        "rank": 43,
+        "score": 43.930099999999996,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Hoddie",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Coboy Hat",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #47",
+        "rank": 44,
+        "score": 43.605,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Orange",
+                "total_stock": 13,
+                "percentage": 13.0,
+                "score": 7.6923
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Red Glasses",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Clothes": {
+                "item": "Hoddie",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #10",
+        "rank": 45,
+        "score": 42.73759999999999,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Red Glasses",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Clothes": {
+                "item": "Hoddie",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Punk",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #37",
+        "rank": 46,
+        "score": 42.5229,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Supersol",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Coboy Hat",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #43",
+        "rank": 47,
+        "score": 42.2823,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Green.Png",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Flanel Green",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Clown Hat",
+                "total_stock": 10,
+                "percentage": 10.0,
+                "score": 10.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #57",
+        "rank": 48,
+        "score": 42.2147,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Orange",
+                "total_stock": 13,
+                "percentage": 13.0,
+                "score": 7.6923
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Hoddie",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #83",
+        "rank": 49,
+        "score": 42.139900000000004,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Green.Png",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Sleeveless Basketball",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #16",
+        "rank": 50,
+        "score": 41.711099999999995,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Sleeveless Basketball",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Punk",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #4",
+        "rank": 51,
+        "score": 41.69839999999999,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Rainbow",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #44",
+        "rank": 52,
+        "score": 41.5488,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Hoodie Flanel",
+                "total_stock": 7,
+                "percentage": 7.0,
+                "score": 14.2857
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #56",
+        "rank": 53,
+        "score": 41.1507,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Hoodie Flanel",
+                "total_stock": 7,
+                "percentage": 7.0,
+                "score": 14.2857
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #35",
+        "rank": 54,
+        "score": 40.9281,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Green.Png",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Hoddie",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #41",
+        "rank": 55,
+        "score": 39.9098,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Supersol",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #99",
+        "rank": 56,
+        "score": 39.48629999999999,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Green.Png",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Red Glasses",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Clothes": {
+                "item": "Flanel Green",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #32",
+        "rank": 57,
+        "score": 39.4103,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Formalsuit.Jpg",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #67",
+        "rank": 58,
+        "score": 39.2262,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Red Glasses",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Clothes": {
+                "item": "Prison Tees",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Punk",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #76",
+        "rank": 59,
+        "score": 39.0295,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Orange",
+                "total_stock": 13,
+                "percentage": 13.0,
+                "score": 7.6923
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Hoodie Flanel",
+                "total_stock": 7,
+                "percentage": 7.0,
+                "score": 14.2857
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #91",
+        "rank": 60,
+        "score": 38.769000000000005,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Flanel Green",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Clown Hat",
+                "total_stock": 10,
+                "percentage": 10.0,
+                "score": 10.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #36",
+        "rank": 61,
+        "score": 38.6178,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Prison Tees",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Punk",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #20",
+        "rank": 62,
+        "score": 38.4456,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Hoddie",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #18",
+        "rank": 63,
+        "score": 38.3905,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Supersol",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Punk",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #6",
+        "rank": 64,
+        "score": 37.8711,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Sleeveless Basketball",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #33",
+        "rank": 65,
+        "score": 37.541599999999995,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Orange",
+                "total_stock": 13,
+                "percentage": 13.0,
+                "score": 7.6923
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Red Glasses",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #61",
+        "rank": 66,
+        "score": 37.134699999999995,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Red Glasses",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #30",
+        "rank": 67,
+        "score": 37.074,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Prison Tees",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Clown Hat",
+                "total_stock": 10,
+                "percentage": 10.0,
+                "score": 10.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #60",
+        "rank": 68,
+        "score": 36.879400000000004,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Red Glasses",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Clothes": {
+                "item": "Supersol",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #28",
+        "rank": 69,
+        "score": 36.8013,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Formalsuit.Jpg",
+                "total_stock": 6,
+                "percentage": 6.0,
+                "score": 16.6667
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #8",
+        "rank": 70,
+        "score": 36.505,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Prison Tees",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #79",
+        "rank": 71,
+        "score": 35.684799999999996,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Prison Tees",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #38",
+        "rank": 72,
+        "score": 35.3966,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Supersol",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #23",
+        "rank": 73,
+        "score": 35.2429,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Prison Tees",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #82",
+        "rank": 74,
+        "score": 35.174099999999996,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Green.Png",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Red Glasses",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #87",
+        "rank": 75,
+        "score": 35.1373,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Supersol",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #9",
+        "rank": 76,
+        "score": 34.656400000000005,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Prison Tees",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #42",
+        "rank": 77,
+        "score": 34.3476,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #93",
+        "rank": 78,
+        "score": 34.3155,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Red Glasses",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #72",
+        "rank": 79,
+        "score": 33.934,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #34",
+        "rank": 80,
+        "score": 33.834700000000005,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Orange",
+                "total_stock": 13,
+                "percentage": 13.0,
+                "score": 7.6923
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Flanel Green",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #95",
+        "rank": 81,
+        "score": 33.6593,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Clown Hat",
+                "total_stock": 10,
+                "percentage": 10.0,
+                "score": 10.0
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #2",
+        "rank": 82,
+        "score": 33.598200000000006,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Prison Tees",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #86",
+        "rank": 83,
+        "score": 33.5011,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Red Glasses",
+                "total_stock": 12,
+                "percentage": 12.0,
+                "score": 8.3333
+            },
+            "Clothes": {
+                "item": "Flanel Green",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #40",
+        "rank": 84,
+        "score": 33.455,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #80",
+        "rank": 85,
+        "score": 32.6875,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Supersol",
+                "total_stock": 8,
+                "percentage": 8.0,
+                "score": 12.5
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #5",
+        "rank": 86,
+        "score": 32.6595,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Punk",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #62",
+        "rank": 87,
+        "score": 32.6489,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Pirate Hat",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #97",
+        "rank": 88,
+        "score": 32.5009,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #39",
+        "rank": 89,
+        "score": 32.3107,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Punk",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #58",
+        "rank": 90,
+        "score": 31.6892,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Annoyed.Png",
+                "total_stock": 17,
+                "percentage": 17.0,
+                "score": 5.8824
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #92",
+        "rank": 91,
+        "score": 30.917299999999997,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Angry.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Cigar",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #17",
+        "rank": 92,
+        "score": 30.764700000000005,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Pirates Glasses",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Clothes": {
+                "item": "Prison Tees",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #74",
+        "rank": 93,
+        "score": 30.3067,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Stars Glasses",
+                "total_stock": 16,
+                "percentage": 16.0,
+                "score": 6.25
+            },
+            "Clothes": {
+                "item": "Flanel Green",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #68",
+        "rank": 94,
+        "score": 29.2296,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Grey",
+                "total_stock": 23,
+                "percentage": 23.0,
+                "score": 4.3478
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #29",
+        "rank": 95,
+        "score": 29.2149,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Black Glasses",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #27",
+        "rank": 96,
+        "score": 28.3883,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators Brown.Png",
+                "total_stock": 14,
+                "percentage": 14.0,
+                "score": 7.1429
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Snapback",
+                "total_stock": 19,
+                "percentage": 19.0,
+                "score": 5.2632
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #50",
+        "rank": 97,
+        "score": 27.9543,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Temper.Png",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Sleeveless Solana",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Samoan.Png",
+                "total_stock": 27,
+                "percentage": 27.0,
+                "score": 3.7037
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #100",
+        "rank": 98,
+        "score": 27.087000000000003,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Flanel Green",
+                "total_stock": 11,
+                "percentage": 11.0,
+                "score": 9.0909
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #12",
+        "rank": 99,
+        "score": 25.773899999999998,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Tatto",
+                "total_stock": 26,
+                "percentage": 26.0,
+                "score": 3.8462
+            },
+            "Head": {
+                "item": "Barret",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #85",
+        "rank": 100,
+        "score": 25.5785,
+        "score_distribution": {
+            "Body": {
+                "item": "Elligators White.Png",
+                "total_stock": 32,
+                "percentage": 32.0,
+                "score": 3.125
+            },
+            "Mouth": {
+                "item": "Smiley.Png",
+                "total_stock": 41,
+                "percentage": 41.0,
+                "score": 2.439
+            },
+            "Glasses": {
+                "item": "Thief Mask",
+                "total_stock": 33,
+                "percentage": 33.0,
+                "score": 3.0303
+            },
+            "Clothes": {
+                "item": "Flanel Grey",
+                "total_stock": 15,
+                "percentage": 15.0,
+                "score": 6.6667
+            },
+            "Accesoris": {
+                "item": "Piercing",
+                "total_stock": 21,
+                "percentage": 21.0,
+                "score": 4.7619
+            },
+            "Head": {
+                "item": "Beanie",
+                "total_stock": 18,
+                "percentage": 18.0,
+                "score": 5.5556
+            }
+        },
+        "image_url": "",
+        "folder": "public_mint_assets"
+    }
+]

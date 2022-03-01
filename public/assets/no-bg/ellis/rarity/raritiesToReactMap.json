@@ -1,0 +1,446 @@
+[
+    {
+        "attribute": "Body",
+        "items": [
+            {
+                "name": "Elligators Rainbow",
+                "stock": 6,
+                "total": 100,
+                "percentage": 6.0,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/1-Body/1-Elligators_Rainbow.png"
+            },
+            {
+                "name": "Elligators Green.Png",
+                "stock": 12,
+                "total": 100,
+                "percentage": 12.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/1-Body/3-Elligators_Green.PNG"
+            },
+            {
+                "name": "Elligators Orange",
+                "stock": 13,
+                "total": 100,
+                "percentage": 13.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/1-Body/2-Elligators_Orange.png"
+            },
+            {
+                "name": "Elligators Brown.Png",
+                "stock": 14,
+                "total": 100,
+                "percentage": 14.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/1-Body/4-Elligators_Brown.PNG"
+            },
+            {
+                "name": "Elligators Grey",
+                "stock": 23,
+                "total": 100,
+                "percentage": 23.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-Body/5-Elligators_Grey.png"
+            },
+            {
+                "name": "Elligators White.Png",
+                "stock": 32,
+                "total": 100,
+                "percentage": 32.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-Body/6-Elligators_White.PNG"
+            }
+        ]
+    },
+    {
+        "attribute": "Mouth",
+        "items": [
+            {
+                "name": "Annoyed.Png",
+                "stock": 17,
+                "total": 100,
+                "percentage": 17.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/2-Mouth/1-Annoyed.PNG"
+            },
+            {
+                "name": "Angry.Png",
+                "stock": 21,
+                "total": 100,
+                "percentage": 21.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/2-Mouth/2-Angry.PNG"
+            },
+            {
+                "name": "Temper.Png",
+                "stock": 21,
+                "total": 100,
+                "percentage": 21.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/2-Mouth/3-Temper.PNG"
+            },
+            {
+                "name": "Smiley.Png",
+                "stock": 41,
+                "total": 100,
+                "percentage": 41.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/2-Mouth/4-Smiley.PNG"
+            }
+        ]
+    },
+    {
+        "attribute": "Glasses",
+        "items": [
+            {
+                "name": "3D Glasses",
+                "stock": 4,
+                "total": 100,
+                "percentage": 4.0,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/3-Glasses/1-3D_Glasses.png"
+            },
+            {
+                "name": "Casual Glasses",
+                "stock": 6,
+                "total": 100,
+                "percentage": 6.0,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/3-Glasses/2-Casual_Glasses.png"
+            },
+            {
+                "name": "Red Glasses",
+                "stock": 12,
+                "total": 100,
+                "percentage": 12.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-Glasses/3-Red_Glasses.png"
+            },
+            {
+                "name": "Pirates Glasses",
+                "stock": 14,
+                "total": 100,
+                "percentage": 14.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-Glasses/5-Pirates_Glasses.png"
+            },
+            {
+                "name": "Black Glasses",
+                "stock": 15,
+                "total": 100,
+                "percentage": 15.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-Glasses/4-Black_Glasses.png"
+            },
+            {
+                "name": "Stars Glasses",
+                "stock": 16,
+                "total": 100,
+                "percentage": 16.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-Glasses/6-Stars_Glasses.png"
+            },
+            {
+                "name": "Thief Mask",
+                "stock": 33,
+                "total": 100,
+                "percentage": 33.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/3-Glasses/7-Thief_Mask.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Clothes",
+        "items": [
+            {
+                "name": "Varsity Solana",
+                "stock": 0,
+                "total": 100,
+                "percentage": 0.0,
+                "rarity": "Not created",
+                "color": "#000000",
+                "path": "assets/4-Clothes/1-Varsity_Solana.png"
+            },
+            {
+                "name": "Blazer",
+                "stock": 1,
+                "total": 100,
+                "percentage": 1.0,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/4-Clothes/2-Blazer.png"
+            },
+            {
+                "name": "Jumpsuit",
+                "stock": 2,
+                "total": 100,
+                "percentage": 2.0,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/4-Clothes/3-Jumpsuit.png"
+            },
+            {
+                "name": "Vest",
+                "stock": 3,
+                "total": 100,
+                "percentage": 3.0,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/4-Clothes/5-Vest.png"
+            },
+            {
+                "name": "Shirt",
+                "stock": 5,
+                "total": 100,
+                "percentage": 5.0,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/4-Clothes/4-Shirt.png"
+            },
+            {
+                "name": "Formalsuit.Jpg",
+                "stock": 6,
+                "total": 100,
+                "percentage": 6.0,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/4-Clothes/8-Formalsuit.jpg"
+            },
+            {
+                "name": "Hoodie Flanel",
+                "stock": 7,
+                "total": 100,
+                "percentage": 7.0,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/4-Clothes/7-Hoodie_Flanel.png"
+            },
+            {
+                "name": "Hoddie",
+                "stock": 8,
+                "total": 100,
+                "percentage": 8.0,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/4-Clothes/6-Hoddie.png"
+            },
+            {
+                "name": "Sleeveless Basketball",
+                "stock": 8,
+                "total": 100,
+                "percentage": 8.0,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/4-Clothes/10-Sleeveless_Basketball.png"
+            },
+            {
+                "name": "Supersol",
+                "stock": 8,
+                "total": 100,
+                "percentage": 8.0,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/4-Clothes/12-Supersol.png"
+            },
+            {
+                "name": "Flanel Green",
+                "stock": 11,
+                "total": 100,
+                "percentage": 11.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/4-Clothes/9-Flanel_Green.png"
+            },
+            {
+                "name": "Prison Tees",
+                "stock": 11,
+                "total": 100,
+                "percentage": 11.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/4-Clothes/13-Prison_Tees.png"
+            },
+            {
+                "name": "Flanel Grey",
+                "stock": 15,
+                "total": 100,
+                "percentage": 15.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/4-Clothes/11-Flanel_Grey.png"
+            },
+            {
+                "name": "Sleeveless Solana",
+                "stock": 15,
+                "total": 100,
+                "percentage": 15.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/4-Clothes/14-Sleeveless_Solana.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Accesoris",
+        "items": [
+            {
+                "name": "Cigarette Ivory",
+                "stock": 5,
+                "total": 100,
+                "percentage": 5.0,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Accesoris/2-Cigarette_Ivory.png"
+            },
+            {
+                "name": "Necklace",
+                "stock": 6,
+                "total": 100,
+                "percentage": 6.0,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Accesoris/1-Necklace.png"
+            },
+            {
+                "name": "Cigar",
+                "stock": 15,
+                "total": 100,
+                "percentage": 15.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/5-Accesoris/3-Cigar.png"
+            },
+            {
+                "name": "Piercing",
+                "stock": 21,
+                "total": 100,
+                "percentage": 21.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/5-Accesoris/7-Piercing.png"
+            },
+            {
+                "name": "Tatto",
+                "stock": 26,
+                "total": 100,
+                "percentage": 26.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/5-Accesoris/5-Tatto.png"
+            },
+            {
+                "name": "Samoan.Png",
+                "stock": 27,
+                "total": 100,
+                "percentage": 27.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/5-Accesoris/6-Samoan.PNG"
+            }
+        ]
+    },
+    {
+        "attribute": "Head",
+        "items": [
+            {
+                "name": "King Hat",
+                "stock": 2,
+                "total": 100,
+                "percentage": 2.0,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/6-Head/1-King_Hat.png"
+            },
+            {
+                "name": "Viking Hat",
+                "stock": 4,
+                "total": 100,
+                "percentage": 4.0,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/6-Head/4-Viking_Hat.png"
+            },
+            {
+                "name": "Coboy Hat",
+                "stock": 6,
+                "total": 100,
+                "percentage": 6.0,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/6-Head/3-Coboy_Hat.png"
+            },
+            {
+                "name": "Clown Hat",
+                "stock": 10,
+                "total": 100,
+                "percentage": 10.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/6-Head/2-Clown_Hat.png"
+            },
+            {
+                "name": "Punk",
+                "stock": 11,
+                "total": 100,
+                "percentage": 11.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/6-Head/5-Punk.png"
+            },
+            {
+                "name": "Barret",
+                "stock": 15,
+                "total": 100,
+                "percentage": 15.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/6-Head/6-Barret.png"
+            },
+            {
+                "name": "Pirate Hat",
+                "stock": 15,
+                "total": 100,
+                "percentage": 15.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/6-Head/7-Pirate_hat.png"
+            },
+            {
+                "name": "Beanie",
+                "stock": 18,
+                "total": 100,
+                "percentage": 18.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/6-Head/8-Beanie.png"
+            },
+            {
+                "name": "Snapback",
+                "stock": 19,
+                "total": 100,
+                "percentage": 19.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/6-Head/9-Snapback.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+{
+    "name": "Cute Squares #19",
+    "symbol": "CS",
+    "description": "Cutest squares on Solana Network!!",
+    "seller_fee_basis_points": 500,
+    "image": "18.png",
+    "external_url": "YOUR WEBPAGE",
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Elligators Grey"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Annoyed.Png"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Casual Glasses"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Flanel Green"
+        },
+        {
+            "trait_type": "Accesoris",
+            "value": "Cigar"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Clown Hat"
+        }
+    ],
+    "collection": {
+        "name": "Solana Cute Squares",
+        "family": "Solseum NFT Generator"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "18.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "2QvVjytnfYyFJUnVC9xGu3ejjVTNDzTUjfvodrn6NVcn",
+                "share": 100
+            }
+        ]
+    }
+}

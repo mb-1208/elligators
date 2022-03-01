@@ -1,0 +1,2802 @@
+[
+    {
+        "name": "Cute Squares #1",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators Green.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Casual Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #2",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Casual Glasses"
+            },
+            {
+                "Clothes": "Hoodie Flanel"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "King Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #3",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators Orange"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Punk"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #4",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Stars Glasses"
+            },
+            {
+                "Clothes": "Flanel Green"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Clown Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #5",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Flanel Grey"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #6",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Red Glasses"
+            },
+            {
+                "Clothes": "Flanel Green"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #7",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Flanel Grey"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #8",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #9",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators Rainbow"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Hoddie"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #10",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators Green.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Supersol"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #11",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Red Glasses"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #12",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "3D Glasses"
+            },
+            {
+                "Clothes": "Formalsuit.Jpg"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Barret"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #13",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #14",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators Green.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #15",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Sunset"
+            },
+            {
+                "Body": "Elligators Green.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Red Glasses"
+            },
+            {
+                "Clothes": "Hoddie"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #16",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Forest.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Stars Glasses"
+            },
+            {
+                "Clothes": "Shirt"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #17",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "River.Png"
+            },
+            {
+                "Body": "Elligators Rainbow"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Viking Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #18",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Green.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Stars Glasses"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Barret"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #19",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators Green.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Red Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Cigarette Ivory"
+            },
+            {
+                "Head": "Barret"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #20",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Hoodie Flanel"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #21",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Sunset"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Red Glasses"
+            },
+            {
+                "Clothes": "Shirt"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Barret"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #22",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Orange"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "3D Glasses"
+            },
+            {
+                "Clothes": "Flanel Green"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #23",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Stars Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Basketball"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #24",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Casual Glasses"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #25",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Casual Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Basketball"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Viking Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #26",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Flanel Grey"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Punk"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #27",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Green.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Flanel Green"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Punk"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #28",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Casual Glasses"
+            },
+            {
+                "Clothes": "Flanel Grey"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #29",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Red Glasses"
+            },
+            {
+                "Clothes": "Supersol"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #30",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Stars Glasses"
+            },
+            {
+                "Clothes": "Supersol"
+            },
+            {
+                "Accesoris": "Necklace"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #31",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Red Glasses"
+            },
+            {
+                "Clothes": "Flanel Grey"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Barret"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #32",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Barret"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #33",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Orange"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Flanel Green"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #34",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Sunset"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Flanel Green"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Punk"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #35",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Flanel Green"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Viking Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #36",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Flanel Green"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Punk"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #37",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Red Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #38",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators Orange"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Flanel Grey"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #39",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Annoyed.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Supersol"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Punk"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #40",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Annoyed.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Hoodie Flanel"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Barret"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #41",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Viking Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #42",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Sunset"
+            },
+            {
+                "Body": "Elligators Orange"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Formalsuit.Jpg"
+            },
+            {
+                "Accesoris": "Cigarette Ivory"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #43",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #44",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Annoyed.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Sleeveless Basketball"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Coboy Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #45",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #46",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators Orange"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "King Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #47",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Rainbow"
+            },
+            {
+                "Mouth": "Annoyed.Png"
+            },
+            {
+                "Glasses": "Red Glasses"
+            },
+            {
+                "Clothes": "Hoodie Flanel"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #48",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Red Glasses"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Cigarette Ivory"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #49",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Annoyed.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Vest"
+            },
+            {
+                "Accesoris": "Cigarette Ivory"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #50",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Sunset"
+            },
+            {
+                "Body": "Elligators Rainbow"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Stars Glasses"
+            },
+            {
+                "Clothes": "Formalsuit.Jpg"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #51",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Red Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #52",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #53",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Basketball"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #54",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Casual Glasses"
+            },
+            {
+                "Clothes": "Formalsuit.Jpg"
+            },
+            {
+                "Accesoris": "Cigarette Ivory"
+            },
+            {
+                "Head": "Barret"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #55",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Sunset"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Hoddie"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Clown Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #56",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Formalsuit.Jpg"
+            },
+            {
+                "Accesoris": "Cigarette Ivory"
+            },
+            {
+                "Head": "Clown Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #57",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Annoyed.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Flanel Grey"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "King Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #58",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Annoyed.Png"
+            },
+            {
+                "Glasses": "Red Glasses"
+            },
+            {
+                "Clothes": "Flanel Grey"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Barret"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #59",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "River.Png"
+            },
+            {
+                "Body": "Elligators Rainbow"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Supersol"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #60",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Forest.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #61",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Orange"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Necklace"
+            },
+            {
+                "Head": "Viking Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #62",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Vest"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #63",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Shirt"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #64",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators Green.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Sleeveless Basketball"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #65",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Red Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Basketball"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Punk"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #66",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "River.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Stars Glasses"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Necklace"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #67",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Stars Glasses"
+            },
+            {
+                "Clothes": "Flanel Green"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #68",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Sunset"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Formalsuit.Jpg"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Barret"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #69",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Sunset"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Annoyed.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Hoodie Flanel"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #70",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "River.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #71",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Supersol"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Viking Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #72",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "River.Png"
+            },
+            {
+                "Body": "Elligators Green.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Stars Glasses"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Punk"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #73",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Forest.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Annoyed.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Flanel Grey"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Coboy Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #74",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Stars Glasses"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #75",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "River.Png"
+            },
+            {
+                "Body": "Elligators Rainbow"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Supersol"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Clown Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #76",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Flanel Grey"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Coboy Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #77",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Sunset"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Casual Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #78",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #79",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "River.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Stars Glasses"
+            },
+            {
+                "Clothes": "Hoddie"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #80",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Hoodie Flanel"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #81",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators Green.Png"
+            },
+            {
+                "Mouth": "Annoyed.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Necklace"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #82",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Supersol"
+            },
+            {
+                "Accesoris": "Necklace"
+            },
+            {
+                "Head": "Punk"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #83",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Hoddie"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #84",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Shirt"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #85",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Rainbow"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Supersol"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #86",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Casual Glasses"
+            },
+            {
+                "Clothes": "Flanel Green"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Viking Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #87",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Sunset"
+            },
+            {
+                "Body": "Elligators Green.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Varsity Solana"
+            },
+            {
+                "Accesoris": "Tatto"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #88",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Supersol"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Clown Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #89",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Sunset"
+            },
+            {
+                "Body": "Elligators Rainbow"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Flanel Green"
+            },
+            {
+                "Accesoris": "Cigarette Ivory"
+            },
+            {
+                "Head": "Punk"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #90",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Hoodie Flanel"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Viking Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #91",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Shirt"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Coboy Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #92",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Pirates Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Pirate Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #93",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Stars Glasses"
+            },
+            {
+                "Clothes": "Flanel Green"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Viking Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #94",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Beach"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "3D Glasses"
+            },
+            {
+                "Clothes": "Hoodie Flanel"
+            },
+            {
+                "Accesoris": "Cigar"
+            },
+            {
+                "Head": "Clown Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #95",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Hills.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Temper.Png"
+            },
+            {
+                "Glasses": "Stars Glasses"
+            },
+            {
+                "Clothes": "Sleeveless Solana"
+            },
+            {
+                "Accesoris": "Cigarette Ivory"
+            },
+            {
+                "Head": "Snapback"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #96",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Firth.Png"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "3D Glasses"
+            },
+            {
+                "Clothes": "Supersol"
+            },
+            {
+                "Accesoris": "Necklace"
+            },
+            {
+                "Head": "Barret"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #97",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Sunset"
+            },
+            {
+                "Body": "Elligators White.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Formalsuit.Jpg"
+            },
+            {
+                "Accesoris": "Samoan.Png"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #98",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Sunset"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Black Glasses"
+            },
+            {
+                "Clothes": "Prison Tees"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Beanie"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #99",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "River.Png"
+            },
+            {
+                "Body": "Elligators Grey"
+            },
+            {
+                "Mouth": "Angry.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Formalsuit.Jpg"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Clown Hat"
+            }
+        ],
+        "folder": "public_mint_assets"
+    },
+    {
+        "name": "Cute Squares #100",
+        "attributes_count": 7,
+        "items": [
+            {
+                "Background": "Rain Forest.Png"
+            },
+            {
+                "Body": "Elligators Brown.Png"
+            },
+            {
+                "Mouth": "Smiley.Png"
+            },
+            {
+                "Glasses": "Thief Mask"
+            },
+            {
+                "Clothes": "Flanel Grey"
+            },
+            {
+                "Accesoris": "Piercing"
+            },
+            {
+                "Head": "Punk"
+            }
+        ],
+        "folder": "public_mint_assets"
+    }
+]
